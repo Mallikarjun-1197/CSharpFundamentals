@@ -1,0 +1,2 @@
+Is C# a statically or dynamically typed langauge ? A : It is both.. you can say var x= "string" ; x =10 // gives error, dynamic y = 10; y= "test" // works fine.
+Why could c# be both statically and dynamically typed lang ? To bridge the gap between dynamically typed lan (JS) and statically typed they introduced it.There is a technology called "EdgeJs" which uses both c# and js code.
